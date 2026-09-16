@@ -1,0 +1,18 @@
+#foda{
+  display:flex;
+}
+
+#Fudido{
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+#D-1{
+  display: flex;
+  justify-content: center;
+}
